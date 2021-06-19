@@ -1,0 +1,22 @@
+.App {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  grid-template-areas:
+  "hd hd hd hd   hd   hd   hd   hd   hd"
+  "nav main main main main main main main main";
+  width: 1200px;     
+  margin: auto;
+}
+
+.app_content{
+    margin-top: 15px;
+    margin-left: 15px;
+    grid-area: main;
+    background-color:silver;
+    height: 100%;
+}
+
+
+
+

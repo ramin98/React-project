@@ -1,0 +1,12 @@
+.header{
+    grid-area: hd;
+    background-color: forestgreen;
+    margin-top: 15px;
+    border-radius: 15px 15px 0px 0px;
+  }
+
+  .header img{
+    width: 50px;
+    margin-left: 20px;
+    margin-top: 15px;
+  }

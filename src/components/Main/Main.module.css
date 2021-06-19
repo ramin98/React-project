@@ -1,0 +1,20 @@
+.img_conteiner img{
+    height: 250px;
+    width: 1051px;   
+  }
+ 
+.ava_des{
+  margin-left: 15px;
+  display: inline-flex;
+}
+
+.ava{
+  width: 100px;
+  height: 100px;
+  border-radius: 10px 10px;
+}
+
+.my_page_inf{
+  margin-top: 15px;
+}
+

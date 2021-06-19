@@ -1,0 +1,32 @@
+.nav{
+    grid-area: nav;
+    background-color: goldenrod;
+    margin-top: 15px;
+    height: max-content;
+  }
+
+.nav_items{
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding:10px;
+  }
+  
+.nav_items_s{
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+  }
+
+a:hover{
+  color: green;
+}
+
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.activeL{
+  color: black;
+}

@@ -1,0 +1,10 @@
+.post{
+  margin-left: 15px;
+  display: inline-box;
+}
+
+.post img{
+  width: 60px;
+  height: 60px;
+  border-radius: 50px 50px;
+}

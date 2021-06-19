@@ -1,0 +1,10 @@
+.message{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: inline-flex;
+  font-size: 30px;
+}
+
+.message_item{
+  margin-left: 150px;
+}
+
